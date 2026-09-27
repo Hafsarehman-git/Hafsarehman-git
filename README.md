@@ -13,7 +13,6 @@
 🌱 &nbsp;I'm currently learning **AI integrations in real-world applications**  
 💬 &nbsp;Ask me about **React , Node.js &amp; Rest APIs**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **"Ctrl + Z " is my favourite safety net.**
 
 ### 🛠️ Tech Stack
 
